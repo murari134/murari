@@ -1,4 +1,4 @@
-# ex-2
+# ex-2 working with RMRS on machine
 
 git config --global user.name  "peddakotlamurari"
 git config --global user.gmail "peddakotlamurari@karunya.edu.in"
@@ -10,17 +10,25 @@ ls
 git pull #link
 git push #link
 
-# ex-3
+
+# ex-3 version control in software application development
+git init
+git clone #link
+git status                                      (on branch main ----- working tree clean)
+vim murari-peddakotla.txt
+git add Lab2.txt                                   
+git status                         (on branch main ---------- working tree clean)
+git status modified
 
 
-# ex-4
+# ex-4 working with RMRS
 
 git clone  #link
 git remote add pqs #link
 git push #link
 git pull #link
 
-#ex-5
+#ex-5  working with collaborative repository managment using git
 
 git clone #link
 git upstream #link
@@ -31,7 +39,7 @@ git checkout my_branch
 git push origin my_branch
 
 
-#ex-6
+#ex-6  implementation of core review in core
 
 git init
 git remote add origin #link
