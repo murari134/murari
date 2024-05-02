@@ -77,3 +77,6 @@ git merge new branch name
 git add .
 git commit -m "Fix #1: dfggh"
 git push origin main
+
+
+git repo fork git@github.com:murari134/murari.git --clone
